@@ -1,3 +1,7 @@
 # form__registr
+- HTML
+- CSS
 
-https://panchenkonazar.github.io/form__registr/
+Can you view [my project](https://panchenkonaz.github.io/form__registr/)
+
+
